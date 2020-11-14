@@ -11,3 +11,9 @@ List of top solutions :
 - [10th](https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification/discussion/161100)
 - [11th](https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification/discussion/160961)
 - [13th](https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification/discussion/161974)
+
+## Notebook
+- [[TPU-Training] Super Fast XLMRoberta](https://www.kaggle.com/shonenkov/tpu-training-super-fast-xlmroberta)
+
+## Summary
+- [中文总结](https://www.codenong.com/cs106995847/)
